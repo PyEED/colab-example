@@ -1,0 +1,2 @@
+pyeed @ git+https://github.com/PyEED/pyeed@docs-update-installation
+ipykernel
